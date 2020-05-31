@@ -1,5 +1,5 @@
 {
-    "name": "udacity-c2-image-filter",
+    "name": "udagram-project-2-image-filter",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -14,7 +14,7 @@
         "type": "git",
         "url": "git+https://github.com/grutt/udacity-c2-image-filter.git"
     },
-    "author": "",
+    "author": "Shan Ul Haq",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/grutt/udacity-c2-image-filter/issues"
