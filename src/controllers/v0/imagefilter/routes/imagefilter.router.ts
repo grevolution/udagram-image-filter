@@ -1,7 +1,7 @@
 import { Router, Request, Response } from "express";
-import { validateUrl } from "../../../../../src/util/util";
-import { filterImageFromURL } from "../../../../../src/util/util";
-import { deleteLocalFiles } from "../../../../../src/util/util";
+import { validateUrl } from "../../../../util/util";
+import { filterImageFromURL } from "../../../../util/util";
+import { deleteLocalFiles } from "../../../../util/util";
 
 const router: Router = Router();
 
